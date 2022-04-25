@@ -31,6 +31,7 @@ class ReminderListViewController: UICollectionViewController {
         dataSource.apply(snapshot)
         
         collectionView.dataSource = dataSource
+        
     }
     
     
