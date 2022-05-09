@@ -28,6 +28,7 @@
 		08852B582815820B00B0627E /* Reminder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08852B572815820B00B0627E /* Reminder.swift */; };
 		08852B5A2816E1A600B0627E /* Date+Today.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08852B592816E1A600B0627E /* Date+Today.swift */; };
 		08852B5E2816E98200B0627E /* ReminderListViewController+DataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08852B5D2816E98200B0627E /* ReminderListViewController+DataSource.swift */; };
+		08D192CE2829479500A1477A /* ProgressHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08D192CD2829479500A1477A /* ProgressHeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		08852B572815820B00B0627E /* Reminder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reminder.swift; sourceTree = "<group>"; };
 		08852B592816E1A600B0627E /* Date+Today.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Today.swift"; sourceTree = "<group>"; };
 		08852B5D2816E98200B0627E /* ReminderListViewController+DataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ReminderListViewController+DataSource.swift"; sourceTree = "<group>"; };
+		08D192CD2829479500A1477A /* ProgressHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressHeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +142,7 @@
 				08852B5D2816E98200B0627E /* ReminderListViewController+DataSource.swift */,
 				080375A5281C2C0B00FAD5BC /* ReminderDoneButton.swift */,
 				080375A9281C2D6E00FAD5BC /* ReminderListViewController+Actions.swift */,
+				08D192CD2829479500A1477A /* ProgressHeaderView.swift */,
 			);
 			path = ListViewController;
 			sourceTree = "<group>";
@@ -220,6 +223,7 @@
 				08852B472815806B00B0627E /* ReminderListViewController.swift in Sources */,
 				08852B5A2816E1A600B0627E /* Date+Today.swift in Sources */,
 				08852B432815806B00B0627E /* AppDelegate.swift in Sources */,
+				08D192CE2829479500A1477A /* ProgressHeaderView.swift in Sources */,
 				080375B128202C3100FAD5BC /* ReminderViewController+Section.swift in Sources */,
 				080375BA2824164D00FAD5BC /* UIContentConfiguration+Stateless.swift in Sources */,
 				080375B32823F9C100FAD5BC /* ReminderViewController+CellConfiguration.swift in Sources */,
