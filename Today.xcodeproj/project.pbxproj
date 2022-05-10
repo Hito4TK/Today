@@ -29,6 +29,7 @@
 		08852B5A2816E1A600B0627E /* Date+Today.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08852B592816E1A600B0627E /* Date+Today.swift */; };
 		08852B5E2816E98200B0627E /* ReminderListViewController+DataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08852B5D2816E98200B0627E /* ReminderListViewController+DataSource.swift */; };
 		08D192CE2829479500A1477A /* ProgressHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08D192CD2829479500A1477A /* ProgressHeaderView.swift */; };
+		08D192D0282AA5DA00A1477A /* CAGradientLayer+ListStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08D192CF282AA5DA00A1477A /* CAGradientLayer+ListStyle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		08852B592816E1A600B0627E /* Date+Today.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Today.swift"; sourceTree = "<group>"; };
 		08852B5D2816E98200B0627E /* ReminderListViewController+DataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ReminderListViewController+DataSource.swift"; sourceTree = "<group>"; };
 		08D192CD2829479500A1477A /* ProgressHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressHeaderView.swift; sourceTree = "<group>"; };
+		08D192CF282AA5DA00A1477A /* CAGradientLayer+ListStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CAGradientLayer+ListStyle.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 				08852B572815820B00B0627E /* Reminder.swift */,
 				08852B592816E1A600B0627E /* Date+Today.swift */,
 				080375BF2827F4B800FAD5BC /* ReminderListStyle.swift */,
+				08D192CF282AA5DA00A1477A /* CAGradientLayer+ListStyle.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 				080375C02827F4B800FAD5BC /* ReminderListStyle.swift in Sources */,
 				080375AC281D755100FAD5BC /* ReminderViewController.swift in Sources */,
 				080375B62823FD2700FAD5BC /* UIView+PinnedSubview.swift in Sources */,
+				08D192D0282AA5DA00A1477A /* CAGradientLayer+ListStyle.swift in Sources */,
 				080375BC28241F2400FAD5BC /* TextViewContentView.swift in Sources */,
 				080375AF281D840D00FAD5BC /* ReminderViewController+Row.swift in Sources */,
 				08852B582815820B00B0627E /* Reminder.swift in Sources */,
